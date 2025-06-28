@@ -14,3 +14,116 @@ Script stopped - server already running.
 > simple-db-viewer@1.0.0 start
 > node server.js --host 0.0.0.0
 
+✓ postgres.env loaded (5 variables)
+Database viewer running on http://localhost:5001
+
+Environment variables expected:
+PostgreSQL: POSTGRES_URL, POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB, POSTGRES_PORT
+MySQL: MYSQL_URL, MYSQL_USER, MYSQL_PASSWORD, MYSQL_DB, MYSQL_PORT
+SQLite: SQLITE_DB
+MongoDB: MONGODB_URL, MONGODB_DB
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured
+Testing postgres connection...
+✓ postgres connection successful
+- mysql: not configured
+- sqlite: not configured
+- mongodb: not configured

@@ -88,3 +88,4 @@ added 257 packages, and audited 258 packages in 19s
 
 found 0 vulnerabilities
 PostgreSQL is starting on port 5000...
+2025-06-28 14:55:03.415 UTC [730] LOG:  checkpoint starting: time
